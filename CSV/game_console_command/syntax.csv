@@ -1,0 +1,3 @@
+help|help <command>
+admin add|admin add <name / entity id / steam id> <permission level>
+admin remove|admin remove <name / entity id / steam id>

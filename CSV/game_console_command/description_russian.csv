@@ -1,0 +1,3 @@
+help|Prints help text for supported commands
+admin add|Used to add a player to the admin list with the desired permission level. Note that you can use the players entityid, playername, or steam ID. Type "lpi" to find an ID. Permission levels can range between 0 (maximum) and 1000 (none)
+admin remove|Used to remove a player from the admin list. Type "lpi" to find an ID
