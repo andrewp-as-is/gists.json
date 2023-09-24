@@ -1,0 +1,2802 @@
+[
+  {
+    "url": "https://api.github.com/gists/e347bad07f33c228ecfab49ba507d272",
+    "id": "e347bad07f33c228ecfab49ba507d272",
+    "node_id": "G_kwDOAMoWJdoAIGUzNDdiYWQwN2YzM2MyMjhlY2ZhYjQ5YmE1MDdkMjcy",
+    "files": {
+      "etetetetet": {
+        "filename": "etetetetet",
+        "type": "text/plain",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/e347bad07f33c228ecfab49ba507d272/raw/6a4bbb3839eb53596024395be643e71429edb84f/etetetetet",
+        "size": 12
+      }
+    },
+    "public": false,
+    "created_at": "2023-09-19T12:15:29Z",
+    "updated_at": "2023-09-19T12:15:29Z",
+    "description": "tetete",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/1bc84cfee39c297dae71181c11465a8f",
+    "id": "1bc84cfee39c297dae71181c11465a8f",
+    "node_id": "G_kwDOAMoWJdoAIDFiYzg0Y2ZlZTM5YzI5N2RhZTcxMTgxYzExNDY1YThm",
+    "files": {
+      "test.txt": {
+        "filename": "test.txt",
+        "type": "text/plain",
+        "language": "Text",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/1bc84cfee39c297dae71181c11465a8f/raw/12a8ef27ab931d62e8f1bfa537ae653ac0f55256/test.txt",
+        "size": 9
+      }
+    },
+    "public": true,
+    "created_at": "2023-09-12T20:11:52Z",
+    "updated_at": "2023-09-12T20:11:52Z",
+    "description": "test",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/eb49e63dbbb5133cbf433200e3e92b19",
+    "id": "eb49e63dbbb5133cbf433200e3e92b19",
+    "node_id": "G_kwDOAMoWJdoAIGViNDllNjNkYmJiNTEzM2NiZjQzMzIwMGUzZTkyYjE5",
+    "files": {
+      "Launchctl_Unload-10.14.sh": {
+        "filename": "Launchctl_Unload-10.14.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/eb49e63dbbb5133cbf433200e3e92b19/raw/05081919e1687a68e72a0e297f403d9e8b75149c/Launchctl_Unload-10.14.sh",
+        "size": 9377
+      }
+    },
+    "public": true,
+    "created_at": "2023-08-01T12:41:16Z",
+    "updated_at": "2023-08-01T12:41:16Z",
+    "description": "A Quick Little Script to Force Disable Certain LaunchDaemons in macOS",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/93bbb30be6bfa885efea13b08af8ad27",
+    "id": "93bbb30be6bfa885efea13b08af8ad27",
+    "node_id": "MDQ6R2lzdDkzYmJiMzBiZTZiZmE4ODVlZmVhMTNiMDhhZjhhZDI3",
+    "files": {
+      "docker-stop-all-containers.sh": {
+        "filename": "docker-stop-all-containers.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/93bbb30be6bfa885efea13b08af8ad27/raw/d92de2b29d728f02f3c9f6600daa89085e3a3033/docker-stop-all-containers.sh",
+        "size": 45
+      }
+    },
+    "public": true,
+    "created_at": "2021-09-01T12:44:52Z",
+    "updated_at": "2021-10-12T19:45:40Z",
+    "description": "Docker stop all containers #docker",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/85813f11a0038867a449f1624c3a7810",
+    "id": "85813f11a0038867a449f1624c3a7810",
+    "node_id": "MDQ6R2lzdDg1ODEzZjExYTAwMzg4NjdhNDQ5ZjE2MjRjM2E3ODEw",
+    "files": {
+      "macOS-list-ports.sh": {
+        "filename": "macOS-list-ports.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/85813f11a0038867a449f1624c3a7810/raw/1a6908e287b903cca4252c9a1fc4150db070d484/macOS-list-ports.sh",
+        "size": 68
+      }
+    },
+    "public": true,
+    "created_at": "2020-06-17T13:16:56Z",
+    "updated_at": "2021-10-12T19:45:53Z",
+    "description": "macOS list ports #macos",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/6a366d5e10265cfbaf92cce0120a4557",
+    "id": "6a366d5e10265cfbaf92cce0120a4557",
+    "node_id": "MDQ6R2lzdDZhMzY2ZDVlMTAyNjVjZmJhZjkyY2NlMDEyMGE0NTU3",
+    "files": {
+      "gunicorn-kill-processes.sh": {
+        "filename": "gunicorn-kill-processes.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/6a366d5e10265cfbaf92cce0120a4557/raw/2dd67b349833239e685f1d2d66bba0ea1db6cc21/gunicorn-kill-processes.sh",
+        "size": 305
+      }
+    },
+    "public": true,
+    "created_at": "2020-06-17T13:16:52Z",
+    "updated_at": "2020-06-17T13:19:32Z",
+    "description": "gunicorn kill processes",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/c6361fe5ac43e59d5d0ddce9e1f8b247",
+    "id": "c6361fe5ac43e59d5d0ddce9e1f8b247",
+    "node_id": "MDQ6R2lzdGM2MzYxZmU1YWM0M2U1OWQ1ZDBkZGNlOWUxZjhiMjQ3",
+    "files": {
+      "certbot.sh": {
+        "filename": "certbot.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/c6361fe5ac43e59d5d0ddce9e1f8b247/raw/e726ec2496115ab5accf4aa648c5125151922130/certbot.sh",
+        "size": 68
+      }
+    },
+    "public": true,
+    "created_at": "2020-06-17T13:16:46Z",
+    "updated_at": "2020-06-17T13:19:28Z",
+    "description": "certbot",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/0b7f73f6d3ea73b5179fb0200db3fae7",
+    "id": "0b7f73f6d3ea73b5179fb0200db3fae7",
+    "node_id": "MDQ6R2lzdDBiN2Y3M2Y2ZDNlYTczYjUxNzlmYjAyMDBkYjNmYWU3",
+    "files": {
+      "user.sql": {
+        "filename": "user.sql",
+        "type": "application/x-sql",
+        "language": "SQL",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/0b7f73f6d3ea73b5179fb0200db3fae7/raw/203cc8376fd4ace083990c6ca68385c23b0f1667/user.sql",
+        "size": 240
+      }
+    },
+    "public": true,
+    "created_at": "2020-06-17T13:16:41Z",
+    "updated_at": "2020-06-17T13:19:25Z",
+    "description": "PostgreSQL user",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/699781fbbed644258fdb6ee0989a10be",
+    "id": "699781fbbed644258fdb6ee0989a10be",
+    "node_id": "MDQ6R2lzdDY5OTc4MWZiYmVkNjQ0MjU4ZmRiNmVlMDk4OWExMGJl",
+    "files": {
+      "postgres-status.sh": {
+        "filename": "postgres-status.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/699781fbbed644258fdb6ee0989a10be/raw/7145b8792d3e777404da633e02e1f9337d63b336/postgres-status.sh",
+        "size": 121
+      }
+    },
+    "public": true,
+    "created_at": "2020-06-17T13:16:37Z",
+    "updated_at": "2020-06-17T13:19:25Z",
+    "description": "PostgreSQL status",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/ebce68416d4d1e3fa358237eea36215c",
+    "id": "ebce68416d4d1e3fa358237eea36215c",
+    "node_id": "MDQ6R2lzdGViY2U2ODQxNmQ0ZDFlM2ZhMzU4MjM3ZWVhMzYyMTVj",
+    "files": {
+      "Makefile": {
+        "filename": "Makefile",
+        "type": "text/plain",
+        "language": "Makefile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/ebce68416d4d1e3fa358237eea36215c/raw/b164d24701d968609e9b609e9514ddf696bb7bb2/Makefile",
+        "size": 713
+      },
+      "ssh.sh": {
+        "filename": "ssh.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/ebce68416d4d1e3fa358237eea36215c/raw/7c3f78ec87ba5d70ed9f2bdc66bbfe8a74515d43/ssh.sh",
+        "size": 145
+      }
+    },
+    "public": true,
+    "created_at": "2020-06-17T13:16:32Z",
+    "updated_at": "2020-06-17T13:19:24Z",
+    "description": "PostgreSQL ssh",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/16bee897df732abe92c1aee3e7d98fd6",
+    "id": "16bee897df732abe92c1aee3e7d98fd6",
+    "node_id": "MDQ6R2lzdDE2YmVlODk3ZGY3MzJhYmU5MmMxYWVlM2U3ZDk4ZmQ2",
+    "files": {
+      "postgres-logs.sh": {
+        "filename": "postgres-logs.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/16bee897df732abe92c1aee3e7d98fd6/raw/006a7defe57785c0455108aa24da686bfc56514f/postgres-logs.sh",
+        "size": 103
+      }
+    },
+    "public": true,
+    "created_at": "2020-06-17T13:16:27Z",
+    "updated_at": "2021-10-13T19:23:52Z",
+    "description": "PostgreSQL logs #postgresql",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/2e531358fdc9c2821977321c87c5b6ec",
+    "id": "2e531358fdc9c2821977321c87c5b6ec",
+    "node_id": "MDQ6R2lzdDJlNTMxMzU4ZmRjOWMyODIxOTc3MzIxYzg3YzViNmVj",
+    "files": {
+      "Makefile": {
+        "filename": "Makefile",
+        "type": "text/plain",
+        "language": "Makefile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/2e531358fdc9c2821977321c87c5b6ec/raw/b164d24701d968609e9b609e9514ddf696bb7bb2/Makefile",
+        "size": 713
+      },
+      "postgres-cluster.sh": {
+        "filename": "postgres-cluster.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/2e531358fdc9c2821977321c87c5b6ec/raw/9354e81dffca9749f55ceceb4301a01f7376cfda/postgres-cluster.sh",
+        "size": 622
+      }
+    },
+    "public": true,
+    "created_at": "2020-06-17T13:16:23Z",
+    "updated_at": "2020-06-17T13:19:22Z",
+    "description": "PostgreSQL cluster",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/7fd32c01bd7ef060e41f1fbc35383c59",
+    "id": "7fd32c01bd7ef060e41f1fbc35383c59",
+    "node_id": "MDQ6R2lzdDdmZDMyYzAxYmQ3ZWYwNjBlNDFmMWZiYzM1MzgzYzU5",
+    "files": {
+      "docker-exec.sh": {
+        "filename": "docker-exec.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/7fd32c01bd7ef060e41f1fbc35383c59/raw/51cbb64ded2c969b62145298ff0be1ba248dbbd7/docker-exec.sh",
+        "size": 59
+      }
+    },
+    "public": true,
+    "created_at": "2020-06-17T13:16:13Z",
+    "updated_at": "2020-06-17T13:19:20Z",
+    "description": "Docker exec",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/827a29ce1d34457221b5ff333bd939f6",
+    "id": "827a29ce1d34457221b5ff333bd939f6",
+    "node_id": "MDQ6R2lzdDgyN2EyOWNlMWQzNDQ1NzIyMWI1ZmYzMzNiZDkzOWY2",
+    "files": {
+      "Docker base image.sh": {
+        "filename": "Docker base image.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/827a29ce1d34457221b5ff333bd939f6/raw/cc00431066c366437bf6e3009ed2fd953102337f/Docker%20base%20image.sh",
+        "size": 174
+      }
+    },
+    "public": true,
+    "created_at": "2020-06-17T13:16:08Z",
+    "updated_at": "2021-10-11T08:45:17Z",
+    "description": "Docker base image",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/2caa27c2745e29dac30184ebf643d3bc",
+    "id": "2caa27c2745e29dac30184ebf643d3bc",
+    "node_id": "MDQ6R2lzdDJjYWEyN2MyNzQ1ZTI5ZGFjMzAxODRlYmY2NDNkM2Jj",
+    "files": {
+      "middleware.txt": {
+        "filename": "middleware.txt",
+        "type": "text/plain",
+        "language": "Text",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/2caa27c2745e29dac30184ebf643d3bc/raw/ca0633a15b53a4dda352f8b0c368ff3ba68758e2/middleware.txt",
+        "size": 347
+      }
+    },
+    "public": true,
+    "created_at": "2020-06-17T13:16:02Z",
+    "updated_at": "2021-10-06T20:03:41Z",
+    "description": "Django middleware list",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/c5e47f43b2883208e7382e7abe6ab5fa",
+    "id": "c5e47f43b2883208e7382e7abe6ab5fa",
+    "node_id": "MDQ6R2lzdGM1ZTQ3ZjQzYjI4ODMyMDhlNzM4MmU3YWJlNmFiNWZh",
+    "files": {
+      "Makefile": {
+        "filename": "Makefile",
+        "type": "text/plain",
+        "language": "Makefile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/c5e47f43b2883208e7382e7abe6ab5fa/raw/2b6b67a0ec9c1b547fba2df80af01a6ea8f6edc3/Makefile",
+        "size": 71
+      },
+      "e2-mount-volume.sh": {
+        "filename": "e2-mount-volume.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/c5e47f43b2883208e7382e7abe6ab5fa/raw/1e14444ccb32ce4c6720258f6e4038f1edd5995f/e2-mount-volume.sh",
+        "size": 301
+      }
+    },
+    "public": true,
+    "created_at": "2020-06-17T13:15:46Z",
+    "updated_at": "2020-06-19T19:11:02Z",
+    "description": "AWS EC2 mount volume",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/304ce7f8213d3be30015144a99e6088a",
+    "id": "304ce7f8213d3be30015144a99e6088a",
+    "node_id": "MDQ6R2lzdDMwNGNlN2Y4MjEzZDNiZTMwMDE1MTQ0YTk5ZTYwODhh",
+    "files": {
+      "github-repos-homepage-update.sh": {
+        "filename": "github-repos-homepage-update.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/304ce7f8213d3be30015144a99e6088a/raw/8abea10b443d287b912229b19cc01cfdb994d709/github-repos-homepage-update.sh",
+        "size": 360
+      }
+    },
+    "public": true,
+    "created_at": "2020-05-25T06:13:24Z",
+    "updated_at": "2021-07-18T21:46:57Z",
+    "description": "github repos homepage update",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/b1756d4e357979de70e52469072c483e",
+    "id": "b1756d4e357979de70e52469072c483e",
+    "node_id": "MDQ6R2lzdGIxNzU2ZDRlMzU3OTc5ZGU3MGU1MjQ2OTA3MmM0ODNl",
+    "files": {
+      "description.sh": {
+        "filename": "description.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/b1756d4e357979de70e52469072c483e/raw/13e46838242a8e405b54e55b250310ba2ae29fe2/description.sh",
+        "size": 421
+      }
+    },
+    "public": true,
+    "created_at": "2020-05-25T06:13:19Z",
+    "updated_at": "2021-07-18T22:49:55Z",
+    "description": "github repos homepage update",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/2d693a926097e1d9df08e0ab3d5f190c",
+    "id": "2d693a926097e1d9df08e0ab3d5f190c",
+    "node_id": "MDQ6R2lzdDJkNjkzYTkyNjA5N2UxZDlkZjA4ZTBhYjNkNWYxOTBj",
+    "files": {
+      "github-list-orphaned-repos.sh": {
+        "filename": "github-list-orphaned-repos.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/2d693a926097e1d9df08e0ab3d5f190c/raw/246da1cba0c42d941725d49822fdc2e962f1d634/github-list-orphaned-repos.sh",
+        "size": 265
+      }
+    },
+    "public": true,
+    "created_at": "2020-05-25T06:13:15Z",
+    "updated_at": "2020-05-25T06:15:05Z",
+    "description": "github list orphaned repos",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/cc6408967d66a0c114b42ea2f3f73aae",
+    "id": "cc6408967d66a0c114b42ea2f3f73aae",
+    "node_id": "MDQ6R2lzdGNjNjQwODk2N2Q2NmEwYzExNGI0MmVhMmYzZjczYWFl",
+    "files": {
+      "github-delete-orphaned-repos.sh": {
+        "filename": "github-delete-orphaned-repos.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/cc6408967d66a0c114b42ea2f3f73aae/raw/d8a8b5f42b34f7ab229190badcc3d7dc4df05286/github-delete-orphaned-repos.sh",
+        "size": 318
+      }
+    },
+    "public": true,
+    "created_at": "2020-05-25T06:13:09Z",
+    "updated_at": "2020-05-25T06:15:04Z",
+    "description": "github delete orphaned repos",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/0734603790a45c8b21158fd6026ed3ec",
+    "id": "0734603790a45c8b21158fd6026ed3ec",
+    "node_id": "MDQ6R2lzdDA3MzQ2MDM3OTBhNDVjOGIyMTE1OGZkNjAyNmVkM2Vj",
+    "files": {
+      "ubuntu-clean.sh": {
+        "filename": "ubuntu-clean.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/0734603790a45c8b21158fd6026ed3ec/raw/0a87c7e11beb863d18f06fb9e82cbaa3eeeef755/ubuntu-clean.sh",
+        "size": 66
+      }
+    },
+    "public": true,
+    "created_at": "2020-05-23T10:19:03Z",
+    "updated_at": "2021-10-12T17:51:56Z",
+    "description": "ubuntu clean",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/9c2998bfa4bdfc27b74532023e1b7e98",
+    "id": "9c2998bfa4bdfc27b74532023e1b7e98",
+    "node_id": "MDQ6R2lzdDljMjk5OGJmYTRiZGZjMjdiNzQ1MzIwMjNlMWI3ZTk4",
+    "files": {
+      "Makefile": {
+        "filename": "Makefile",
+        "type": "text/plain",
+        "language": "Makefile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/9c2998bfa4bdfc27b74532023e1b7e98/raw/46039458e8cb9055805544eeb70ac8b7a4edd7c4/Makefile",
+        "size": 84
+      },
+      "ubuntu-postgresql-delete.sh": {
+        "filename": "ubuntu-postgresql-delete.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/9c2998bfa4bdfc27b74532023e1b7e98/raw/fc6df4f0632d69bc29a5b89fdc9a9113f4c9e085/ubuntu-postgresql-delete.sh",
+        "size": 173
+      }
+    },
+    "public": true,
+    "created_at": "2020-05-23T10:18:57Z",
+    "updated_at": "2020-05-23T10:24:38Z",
+    "description": "ubuntu PostgreSQL clean",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/904d1bedcd781b3b188c8008f19299a6",
+    "id": "904d1bedcd781b3b188c8008f19299a6",
+    "node_id": "MDQ6R2lzdDkwNGQxYmVkY2Q3ODFiM2IxODhjODAwOGYxOTI5OWE2",
+    "files": {
+      "Makefile": {
+        "filename": "Makefile",
+        "type": "text/plain",
+        "language": "Makefile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/904d1bedcd781b3b188c8008f19299a6/raw/510d6eb7c7f84e53633624820ebf894f5d2896a8/Makefile",
+        "size": 429
+      },
+      "ubuntu-postgresql.sh": {
+        "filename": "ubuntu-postgresql.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/904d1bedcd781b3b188c8008f19299a6/raw/99b0a0c1e854cc98cc5a7c260466a4955658f799/ubuntu-postgresql.sh",
+        "size": 737
+      }
+    },
+    "public": true,
+    "created_at": "2020-05-23T10:18:52Z",
+    "updated_at": "2020-05-23T10:24:37Z",
+    "description": "ubuntu PostgreSQL",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/3e7b9af8cc9399d61b28bd2d3fc7ade1",
+    "id": "3e7b9af8cc9399d61b28bd2d3fc7ade1",
+    "node_id": "MDQ6R2lzdDNlN2I5YWY4Y2M5Mzk5ZDYxYjI4YmQyZDNmYzdhZGUx",
+    "files": {
+      "Makefile": {
+        "filename": "Makefile",
+        "type": "text/plain",
+        "language": "Makefile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/3e7b9af8cc9399d61b28bd2d3fc7ade1/raw/8540df3aae90617297643bc2c518d0b36617464e/Makefile",
+        "size": 75
+      },
+      "ubuntu-nginx.sh": {
+        "filename": "ubuntu-nginx.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/3e7b9af8cc9399d61b28bd2d3fc7ade1/raw/2733fbddbb4bfd7b8e26b8b807a5d8edfdaeb1e6/ubuntu-nginx.sh",
+        "size": 466
+      }
+    },
+    "public": true,
+    "created_at": "2020-05-23T10:18:48Z",
+    "updated_at": "2020-05-23T10:24:36Z",
+    "description": "ubuntu Nginx",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/948805318a338a4ee0e72062848b8a59",
+    "id": "948805318a338a4ee0e72062848b8a59",
+    "node_id": "MDQ6R2lzdDk0ODgwNTMxOGEzMzhhNGVlMGU3MjA2Mjg0OGI4YTU5",
+    "files": {
+      "Makefile": {
+        "filename": "Makefile",
+        "type": "text/plain",
+        "language": "Makefile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/948805318a338a4ee0e72062848b8a59/raw/7ae39ea37b8a39a1a6f5d744ba30661c4d509d93/Makefile",
+        "size": 73
+      },
+      "ubuntu-docker.sh": {
+        "filename": "ubuntu-docker.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/948805318a338a4ee0e72062848b8a59/raw/80da22e36ad62d98fde201ca5c26741f9cc44bea/ubuntu-docker.sh",
+        "size": 736
+      }
+    },
+    "public": true,
+    "created_at": "2020-05-23T10:18:44Z",
+    "updated_at": "2021-07-18T22:50:41Z",
+    "description": "Docker ubuntu",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/1386f5ca2eda4966729966f58fef0eca",
+    "id": "1386f5ca2eda4966729966f58fef0eca",
+    "node_id": "MDQ6R2lzdDEzODZmNWNhMmVkYTQ5NjY3Mjk5NjZmNThmZWYwZWNh",
+    "files": {
+      "Makefile": {
+        "filename": "Makefile",
+        "type": "text/plain",
+        "language": "Makefile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/1386f5ca2eda4966729966f58fef0eca/raw/19e396826ebb4138388335c017192ec321b73e7b/Makefile",
+        "size": 272
+      }
+    },
+    "public": true,
+    "created_at": "2020-05-23T10:18:35Z",
+    "updated_at": "2020-05-23T10:24:34Z",
+    "description": "ssh dotfiles",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/a039358d2700dc0ddd4024c8a98ae47e",
+    "id": "a039358d2700dc0ddd4024c8a98ae47e",
+    "node_id": "MDQ6R2lzdGEwMzkzNThkMjcwMGRjMGRkZDQwMjRjOGE5OGFlNDdl",
+    "files": {
+      "pip install.sh": {
+        "filename": "pip install.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/a039358d2700dc0ddd4024c8a98ae47e/raw/8c9f3d3888afe6a07d3d9d2f6a16b7305adc0bdc/pip%20install.sh",
+        "size": 330
+      }
+    },
+    "public": true,
+    "created_at": "2020-05-23T10:18:29Z",
+    "updated_at": "2020-05-23T10:24:31Z",
+    "description": "pip install",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/b34dd3e602cb295897317bb2c2e91779",
+    "id": "b34dd3e602cb295897317bb2c2e91779",
+    "node_id": "MDQ6R2lzdGIzNGRkM2U2MDJjYjI5NTg5NzMxN2JiMmMyZTkxNzc5",
+    "files": {
+      "npm package version.sh": {
+        "filename": "npm package version.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/b34dd3e602cb295897317bb2c2e91779/raw/54ae2765401e2e9e23b1d0da309ccb0f653a451f/npm%20package%20version.sh",
+        "size": 59
+      }
+    },
+    "public": true,
+    "created_at": "2020-05-23T10:18:23Z",
+    "updated_at": "2020-05-23T10:24:29Z",
+    "description": "npm package version",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/50b01f5e53732a002cd0a2b0626f2cb7",
+    "id": "50b01f5e53732a002cd0a2b0626f2cb7",
+    "node_id": "MDQ6R2lzdDUwYjAxZjVlNTM3MzJhMDAyY2QwYTJiMDYyNmYyY2I3",
+    "files": {
+      "macOS python.sh": {
+        "filename": "macOS python.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/50b01f5e53732a002cd0a2b0626f2cb7/raw/78b94393210653d7f48205070ab11d14694a783e/macOS%20python.sh",
+        "size": 108
+      }
+    },
+    "public": true,
+    "created_at": "2020-05-23T10:18:18Z",
+    "updated_at": "2020-05-23T10:22:26Z",
+    "description": "macOS python",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/ba4874987063a13a7717057c05b9c83f",
+    "id": "ba4874987063a13a7717057c05b9c83f",
+    "node_id": "MDQ6R2lzdGJhNDg3NDk4NzA2M2ExM2E3NzE3MDU3YzA1YjljODNm",
+    "files": {
+      "certbot-ubuntubionic-nginx.sh": {
+        "filename": "certbot-ubuntubionic-nginx.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/ba4874987063a13a7717057c05b9c83f/raw/70efe4fdfa10d460d9c7dfacd950d2900b67e7a2/certbot-ubuntubionic-nginx.sh",
+        "size": 288
+      }
+    },
+    "public": true,
+    "created_at": "2020-05-23T10:18:12Z",
+    "updated_at": "2021-10-13T19:11:21Z",
+    "description": "certbot-ubuntubionic-nginx #certbot #nginx #ubuntu",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/dab939974d06e0854f85c012b87fb05d",
+    "id": "dab939974d06e0854f85c012b87fb05d",
+    "node_id": "MDQ6R2lzdGRhYjkzOTk3NGQwNmUwODU0Zjg1YzAxMmI4N2ZiMDVk",
+    "files": {
+      "docker rmi.sh": {
+        "filename": "docker rmi.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/dab939974d06e0854f85c012b87fb05d/raw/a476cbb4d8ee847d706e46c126163e1e1ad04cce/docker%20rmi.sh",
+        "size": 70
+      }
+    },
+    "public": true,
+    "created_at": "2020-04-16T12:09:55Z",
+    "updated_at": "2020-05-23T19:32:51Z",
+    "description": "Docker images remove",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/950cca202216efa3448f4c835137b234",
+    "id": "950cca202216efa3448f4c835137b234",
+    "node_id": "MDQ6R2lzdDk1MGNjYTIwMjIxNmVmYTM0NDhmNGM4MzUxMzdiMjM0",
+    "files": {
+      "docker-cleanup.sh": {
+        "filename": "docker-cleanup.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/950cca202216efa3448f4c835137b234/raw/8b8a1216cbc6fba0692a8ed7a61c3a869db445f0/docker-cleanup.sh",
+        "size": 109
+      }
+    },
+    "public": true,
+    "created_at": "2020-04-16T12:09:49Z",
+    "updated_at": "2020-05-23T10:22:07Z",
+    "description": "Docker cleanup",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/b3ac51af55dac99bb692936b2ee5ddb9",
+    "id": "b3ac51af55dac99bb692936b2ee5ddb9",
+    "node_id": "MDQ6R2lzdGIzYWM1MWFmNTVkYWM5OWJiNjkyOTM2YjJlZTVkZGI5",
+    "files": {
+      "Dockerfile": {
+        "filename": "Dockerfile",
+        "type": "text/plain",
+        "language": "Dockerfile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/b3ac51af55dac99bb692936b2ee5ddb9/raw/cf8c795f66626f3b00bad3cc25b70c736b120c06/Dockerfile",
+        "size": 152
+      }
+    },
+    "public": true,
+    "created_at": "2020-04-16T12:09:42Z",
+    "updated_at": "2021-07-18T23:07:04Z",
+    "description": "Docker alpine pycurl",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/c2880ee0979e5fcf587ee73bbab4686a",
+    "id": "c2880ee0979e5fcf587ee73bbab4686a",
+    "node_id": "MDQ6R2lzdGMyODgwZWUwOTc5ZTVmY2Y1ODdlZTczYmJhYjQ2ODZh",
+    "files": {
+      "ip.sh": {
+        "filename": "ip.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/c2880ee0979e5fcf587ee73bbab4686a/raw/c11e468b239d0da2ec75a17523c51d4882eaf5c6/ip.sh",
+        "size": 55
+      }
+    },
+    "public": true,
+    "created_at": "2020-04-16T12:09:30Z",
+    "updated_at": "2021-10-13T19:13:37Z",
+    "description": "AWS EC2 IP #aws",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/7332beab816a0b3beff2b8454305d3ea",
+    "id": "7332beab816a0b3beff2b8454305d3ea",
+    "node_id": "MDQ6R2lzdDczMzJiZWFiODE2YTBiM2JlZmYyYjg0NTQzMDVkM2Vh",
+    "files": {
+      "UNLICENSE": {
+        "filename": "UNLICENSE",
+        "type": "text/plain",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/7332beab816a0b3beff2b8454305d3ea/raw/68a49daad8ff7e35068f2b7a97d643aab440eaec/UNLICENSE",
+        "size": 1211
+      }
+    },
+    "public": true,
+    "created_at": "2019-09-04T16:42:29Z",
+    "updated_at": "2019-09-25T08:05:07Z",
+    "description": "UNLICENSE",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/b45be5a3b0c8d95ea398e839e9f8b74f",
+    "id": "b45be5a3b0c8d95ea398e839e9f8b74f",
+    "node_id": "MDQ6R2lzdGI0NWJlNWEzYjBjOGQ5NWVhMzk4ZTgzOWU5ZjhiNzRm",
+    "files": {
+      "migrations.sh": {
+        "filename": "migrations.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/b45be5a3b0c8d95ea398e839e9f8b74f/raw/dcd35ffd7d1a139ea506bb224a70c13a362d583c/migrations.sh",
+        "size": 140
+      }
+    },
+    "public": true,
+    "created_at": "2019-09-04T16:42:23Z",
+    "updated_at": "2021-07-18T23:07:11Z",
+    "description": "Django migrations mkdir",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/510f58dfa6dab41a9d572e0f6eaba6b7",
+    "id": "510f58dfa6dab41a9d572e0f6eaba6b7",
+    "node_id": "MDQ6R2lzdDUxMGY1OGRmYTZkYWI0MWE5ZDU3MmUwZjZlYWJhNmI3",
+    "files": {
+      "Dockerfile": {
+        "filename": "Dockerfile",
+        "type": "text/plain",
+        "language": "Dockerfile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/510f58dfa6dab41a9d572e0f6eaba6b7/raw/9301662be301c874dbed38b381af0ee3215f25cd/Dockerfile",
+        "size": 261
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-17T16:46:03Z",
+    "updated_at": "2022-09-25T10:57:26Z",
+    "description": "Docker alpine pycurl  #alpine #docker #python",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/f62e8d087a56a4ddf2f980c6c5b212f4",
+    "id": "f62e8d087a56a4ddf2f980c6c5b212f4",
+    "node_id": "MDQ6R2lzdGY2MmU4ZDA4N2E1NmE0ZGRmMmY5ODBjNmM1YjIxMmY0",
+    "files": {
+      "set_password.py": {
+        "filename": "set_password.py",
+        "type": "application/x-python",
+        "language": "Python",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/f62e8d087a56a4ddf2f980c6c5b212f4/raw/3893a3fcdfb2b452d03037ad57516c01a92c509f/set_password.py",
+        "size": 179
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-17T16:45:58Z",
+    "updated_at": "2021-10-13T19:12:35Z",
+    "description": "Django set_password #django",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/cffbf5c0063f9f7f7fa8fb93e07374b9",
+    "id": "cffbf5c0063f9f7f7fa8fb93e07374b9",
+    "node_id": "MDQ6R2lzdGNmZmJmNWMwMDYzZjlmN2Y3ZmE4ZmI5M2UwNzM3NGI5",
+    "files": {
+      "django-createsuperuser.py": {
+        "filename": "django-createsuperuser.py",
+        "type": "application/x-python",
+        "language": "Python",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/cffbf5c0063f9f7f7fa8fb93e07374b9/raw/56e031dbf72d267af0a51076095332fa9bf40655/django-createsuperuser.py",
+        "size": 1433
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-17T16:45:43Z",
+    "updated_at": "2021-10-13T19:12:01Z",
+    "description": "Django create superuser #django",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/008a0c800c7e9f71ae7f9e4aebc11fff",
+    "id": "008a0c800c7e9f71ae7f9e4aebc11fff",
+    "node_id": "MDQ6R2lzdDAwOGEwYzgwMGM3ZTlmNzFhZTdmOWU0YWViYzExZmZm",
+    "files": {
+      "policy.json": {
+        "filename": "policy.json",
+        "type": "application/json",
+        "language": "JSON",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/008a0c800c7e9f71ae7f9e4aebc11fff/raw/d637e434af367f6b68721a9254d1741830437c16/policy.json",
+        "size": 514
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-12T11:53:56Z",
+    "updated_at": "2021-07-18T23:07:28Z",
+    "description": "AWS S3 user full-access Policy",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/42dba0c1ba63652f67fe898ae06514f3",
+    "id": "42dba0c1ba63652f67fe898ae06514f3",
+    "node_id": "MDQ6R2lzdDQyZGJhMGMxYmE2MzY1MmY2N2ZlODk4YWUwNjUxNGYz",
+    "files": {
+      "tar.sh": {
+        "filename": "tar.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/42dba0c1ba63652f67fe898ae06514f3/raw/8cd22273be2d079b88436627a9bcb6087d7c45cb/tar.sh",
+        "size": 291
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-11T13:24:14Z",
+    "updated_at": "2019-08-11T13:26:27Z",
+    "description": "tar",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/1c932b5c85a8aa7eed770d21a7a510fb",
+    "id": "1c932b5c85a8aa7eed770d21a7a510fb",
+    "node_id": "MDQ6R2lzdDFjOTMyYjVjODVhOGFhN2VlZDc3MGQyMWE3YTUxMGZi",
+    "files": {
+      "npm update.sh": {
+        "filename": "npm update.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/1c932b5c85a8aa7eed770d21a7a510fb/raw/31b791f956edc1aa08d783b9aec9e0b826a82f6e/npm%20update.sh",
+        "size": 80
+      },
+      "test.txt": {
+        "filename": "test.txt",
+        "type": "text/plain",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/1c932b5c85a8aa7eed770d21a7a510fb/raw/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391/test.txt",
+        "size": 0
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-11T13:24:09Z",
+    "updated_at": "2021-09-01T10:51:06Z",
+    "description": "npm update",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/6d5e2ce6a3750b789b1e640fb3ebc127",
+    "id": "6d5e2ce6a3750b789b1e640fb3ebc127",
+    "node_id": "MDQ6R2lzdDZkNWUyY2U2YTM3NTBiNzg5YjFlNjQwZmIzZWJjMTI3",
+    "files": {
+      "Dockerfile": {
+        "filename": "Dockerfile",
+        "type": "text/plain",
+        "language": "Dockerfile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/6d5e2ce6a3750b789b1e640fb3ebc127/raw/063b6e3d036969a3d16865b5cb9eebd1d73b76b6/Dockerfile",
+        "size": 217
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-11T13:24:02Z",
+    "updated_at": "2021-07-18T23:09:14Z",
+    "description": "Docker alpine psycopg2",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/e651c137c698cfeff81666aaefcc014f",
+    "id": "e651c137c698cfeff81666aaefcc014f",
+    "node_id": "MDQ6R2lzdGU2NTFjMTM3YzY5OGNmZWZmODE2NjZhYWVmY2MwMTRm",
+    "files": {
+      "Makefile": {
+        "filename": "Makefile",
+        "type": "text/plain",
+        "language": "Makefile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/e651c137c698cfeff81666aaefcc014f/raw/be1a0c7a214efd3f8b60397938534c45e7d3bd77/Makefile",
+        "size": 23
+      },
+      "Makefile.command": {
+        "filename": "Makefile.command",
+        "type": "text/plain",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/e651c137c698cfeff81666aaefcc014f/raw/3137163c79a5b3bfe1f06be9ea5b8532f0448ac1/Makefile.command",
+        "size": 140
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-11T13:23:58Z",
+    "updated_at": "2021-07-18T23:09:19Z",
+    "description": "Makefile.command",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/0a469634210eada3800ee0d46e2287b3",
+    "id": "0a469634210eada3800ee0d46e2287b3",
+    "node_id": "MDQ6R2lzdDBhNDY5NjM0MjEwZWFkYTM4MDBlZTBkNDZlMjI4N2Iz",
+    "files": {
+      "s3.py": {
+        "filename": "s3.py",
+        "type": "application/x-python",
+        "language": "Python",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/0a469634210eada3800ee0d46e2287b3/raw/9988477b62b48902f586a9a95e4b21c855535bfc/s3.py",
+        "size": 1569
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-11T13:23:48Z",
+    "updated_at": "2021-07-18T23:09:23Z",
+    "description": "AWS S3 boto3",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/4d0c55c2ad43d53d7520d08331823774",
+    "id": "4d0c55c2ad43d53d7520d08331823774",
+    "node_id": "MDQ6R2lzdDRkMGM1NWMyYWQ0M2Q1M2Q3NTIwZDA4MzMxODIzNzc0",
+    "files": {
+      "policy.json": {
+        "filename": "policy.json",
+        "type": "application/json",
+        "language": "JSON",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/4d0c55c2ad43d53d7520d08331823774/raw/790972d0256f77ae9f9553b7737ab6c369b9abc7/policy.json",
+        "size": 272
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-11T13:23:44Z",
+    "updated_at": "2021-07-18T23:09:27Z",
+    "description": "AWS S3 Policy",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/a1b85e11c00630b995f9c51479681e08",
+    "id": "a1b85e11c00630b995f9c51479681e08",
+    "node_id": "MDQ6R2lzdGExYjg1ZTExYzAwNjMwYjk5NWY5YzUxNDc5NjgxZTA4",
+    "files": {
+      "put-user-policy.sh": {
+        "filename": "put-user-policy.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/a1b85e11c00630b995f9c51479681e08/raw/4355f21190d7757f0304b37bf5516e9791f7d80d/put-user-policy.sh",
+        "size": 499
+      },
+      "user-policy.json": {
+        "filename": "user-policy.json",
+        "type": "application/json",
+        "language": "JSON",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/a1b85e11c00630b995f9c51479681e08/raw/cb8e13f765b0d6c589efb09a14e831045e1e2fd5/user-policy.json",
+        "size": 380
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-11T13:23:40Z",
+    "updated_at": "2021-07-18T23:09:31Z",
+    "description": "AWS IAM put-user-policy",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/cd78034dfc321f1b0913c74cfe057772",
+    "id": "cd78034dfc321f1b0913c74cfe057772",
+    "node_id": "MDQ6R2lzdGNkNzgwMzRkZmMzMjFmMWIwOTEzYzc0Y2ZlMDU3Nzcy",
+    "files": {
+      "aws iam user.sh": {
+        "filename": "aws iam user.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/cd78034dfc321f1b0913c74cfe057772/raw/71215b850a00466ce8d25692d0e46102cf09ef5d/aws%20iam%20user.sh",
+        "size": 296
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-11T13:23:36Z",
+    "updated_at": "2021-07-18T23:09:34Z",
+    "description": "AWS IAM create-user",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/d58908c99bcadd3e08473872fb84cd0e",
+    "id": "d58908c99bcadd3e08473872fb84cd0e",
+    "node_id": "MDQ6R2lzdGQ1ODkwOGM5OWJjYWRkM2UwODQ3Mzg3MmZiODRjZDBl",
+    "files": {
+      "CORS.xml": {
+        "filename": "CORS.xml",
+        "type": "application/xml",
+        "language": "XML",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/d58908c99bcadd3e08473872fb84cd0e/raw/29319c833ab2f4b33c691717de1a58bf18d14266/CORS.xml",
+        "size": 361
+      },
+      "iam.py": {
+        "filename": "iam.py",
+        "type": "application/x-python",
+        "language": "Python",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/d58908c99bcadd3e08473872fb84cd0e/raw/f97d8bd07210da843b51d266163ae269eed57299/iam.py",
+        "size": 902
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-11T13:23:31Z",
+    "updated_at": "2021-07-18T23:09:38Z",
+    "description": "AWS S3 CORS",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/343d390dd909838ca45ed3acab07f9f6",
+    "id": "343d390dd909838ca45ed3acab07f9f6",
+    "node_id": "MDQ6R2lzdDM0M2QzOTBkZDkwOTgzOGNhNDVlZDNhY2FiMDdmOWY2",
+    "files": {
+      "Makefile": {
+        "filename": "Makefile",
+        "type": "text/plain",
+        "language": "Makefile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/343d390dd909838ca45ed3acab07f9f6/raw/90d8dcfce355b2cb01dff568ff7eb1432cad952a/Makefile",
+        "size": 638
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-11T13:23:27Z",
+    "updated_at": "2021-07-18T23:09:42Z",
+    "description": "AWS IAM S3 read-write access",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/b043b412813f83632df4a2932e481329",
+    "id": "b043b412813f83632df4a2932e481329",
+    "node_id": "MDQ6R2lzdGIwNDNiNDEyODEzZjgzNjMyZGY0YTI5MzJlNDgxMzI5",
+    "files": {
+      "Makefile": {
+        "filename": "Makefile",
+        "type": "text/plain",
+        "language": "Makefile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/b043b412813f83632df4a2932e481329/raw/d39d40005960be158def3f441f1085582a27295c/Makefile",
+        "size": 637
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-11T13:23:22Z",
+    "updated_at": "2021-07-18T23:09:46Z",
+    "description": "AWS IAM S3 full-access",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/059563aab282719f3c72fc254a852964",
+    "id": "059563aab282719f3c72fc254a852964",
+    "node_id": "MDQ6R2lzdDA1OTU2M2FhYjI4MjcxOWYzYzcyZmMyNTRhODUyOTY0",
+    "files": {
+      "Makefile": {
+        "filename": "Makefile",
+        "type": "text/plain",
+        "language": "Makefile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/059563aab282719f3c72fc254a852964/raw/d8a8a2800341b7e1fdb509cace8dba58dcb099a8/Makefile",
+        "size": 647
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-11T13:23:17Z",
+    "updated_at": "2021-07-18T23:09:50Z",
+    "description": "AWS IAM CloudWatch",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/6b60c1865ff5f644b3c97ae7114945e5",
+    "id": "6b60c1865ff5f644b3c97ae7114945e5",
+    "node_id": "MDQ6R2lzdDZiNjBjMTg2NWZmNWY2NDRiM2M5N2FlNzExNDk0NWU1",
+    "files": {
+      "nginx.yml": {
+        "filename": "nginx.yml",
+        "type": "text/x-yaml",
+        "language": "YAML",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/6b60c1865ff5f644b3c97ae7114945e5/raw/ea5c8e778904e890e3bea9c0f14192bce670b489/nginx.yml",
+        "size": 343
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-01T15:42:41Z",
+    "updated_at": "2021-10-12T20:38:18Z",
+    "description": "ansible nginx",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/4ef4a2ad676913a9ebb1a9aac2b10973",
+    "id": "4ef4a2ad676913a9ebb1a9aac2b10973",
+    "node_id": "MDQ6R2lzdDRlZjRhMmFkNjc2OTEzYTllYmIxYTlhYWMyYjEwOTcz",
+    "files": {
+      "Makefile": {
+        "filename": "Makefile",
+        "type": "text/plain",
+        "language": "Makefile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/4ef4a2ad676913a9ebb1a9aac2b10973/raw/89912986b65278035ae05ab10d5e4da40a2e5615/Makefile",
+        "size": 36
+      },
+      "playbook.yml": {
+        "filename": "playbook.yml",
+        "type": "text/x-yaml",
+        "language": "YAML",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/4ef4a2ad676913a9ebb1a9aac2b10973/raw/48003bfae128b75d7bf5186a45a4a57ce3f910a0/playbook.yml",
+        "size": 183
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-01T15:42:35Z",
+    "updated_at": "2021-07-18T23:11:04Z",
+    "description": "ansible docker django migrate",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/4d4714e5353ea3203d2171d65f41dc17",
+    "id": "4d4714e5353ea3203d2171d65f41dc17",
+    "node_id": "MDQ6R2lzdDRkNDcxNGU1MzUzZWEzMjAzZDIxNzFkNjVmNDFkYzE3",
+    "files": {
+      "Makefile": {
+        "filename": "Makefile",
+        "type": "text/plain",
+        "language": "Makefile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/4d4714e5353ea3203d2171d65f41dc17/raw/a475839a2a8a19b1f1eddd94e2ec0453b250d471/Makefile",
+        "size": 34
+      },
+      "docker.yml": {
+        "filename": "docker.yml",
+        "type": "text/x-yaml",
+        "language": "YAML",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/4d4714e5353ea3203d2171d65f41dc17/raw/63f9e6e4a0ba4e41c20599662a2c4175648c45d7/docker.yml",
+        "size": 229
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-01T15:42:30Z",
+    "updated_at": "2021-07-18T23:11:08Z",
+    "description": "ansible docker",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/e8f2c298918c5f15d6208573ba19cec9",
+    "id": "e8f2c298918c5f15d6208573ba19cec9",
+    "node_id": "MDQ6R2lzdGU4ZjJjMjk4OTE4YzVmMTVkNjIwODU3M2JhMTljZWM5",
+    "files": {
+      "npm transfer ownership.sh": {
+        "filename": "npm transfer ownership.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/e8f2c298918c5f15d6208573ba19cec9/raw/dc9b4156fcae17c8c9fd0cf3d5bd1abe58b546bf/npm%20transfer%20ownership.sh",
+        "size": 321
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-01T15:34:28Z",
+    "updated_at": "2021-07-18T23:11:12Z",
+    "description": "npm transfer ownership",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/1039d6bb1c9c707d0b499a5efbfbe289",
+    "id": "1039d6bb1c9c707d0b499a5efbfbe289",
+    "node_id": "MDQ6R2lzdDEwMzlkNmJiMWM5YzcwN2QwYjQ5OWE1ZWZiZmJlMjg5",
+    "files": {
+      "docker-uninstall.sh": {
+        "filename": "docker-uninstall.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/1039d6bb1c9c707d0b499a5efbfbe289/raw/701fe67cb1679591be438bc8c0dd1bebcc2156cd/docker-uninstall.sh",
+        "size": 136
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-01T15:34:17Z",
+    "updated_at": "2021-07-18T23:11:15Z",
+    "description": "Docker uninstall",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/0e9bc5a39a54235f647198f720d4c21b",
+    "id": "0e9bc5a39a54235f647198f720d4c21b",
+    "node_id": "MDQ6R2lzdDBlOWJjNWEzOWE1NDIzNWY2NDcxOThmNzIwZDRjMjFi",
+    "files": {
+      "send_message.py": {
+        "filename": "send_message.py",
+        "type": "application/x-python",
+        "language": "Python",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/0e9bc5a39a54235f647198f720d4c21b/raw/00c275f140b68ad80546b917600c165b761fd1ee/send_message.py",
+        "size": 1098
+      }
+    },
+    "public": true,
+    "created_at": "2019-08-01T15:33:59Z",
+    "updated_at": "2022-11-10T15:10:31Z",
+    "description": "celery AWS SQS send message",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/22448d9971e6fa3a5feb6b1e2fc92714",
+    "id": "22448d9971e6fa3a5feb6b1e2fc92714",
+    "node_id": "MDQ6R2lzdDIyNDQ4ZDk5NzFlNmZhM2E1ZmViNmIxZTJmYzkyNzE0",
+    "files": {
+      "gist recreate.sh": {
+        "filename": "gist recreate.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/22448d9971e6fa3a5feb6b1e2fc92714/raw/d1cf44c87985a000f58824f7b2850b98a8af8361/gist%20recreate.sh",
+        "size": 530
+      }
+    },
+    "public": true,
+    "created_at": "2019-07-21T09:14:24Z",
+    "updated_at": "2021-07-18T23:11:25Z",
+    "description": "gist recreate",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/a310bfdf86d606ed34ff272a1f34a34e",
+    "id": "a310bfdf86d606ed34ff272a1f34a34e",
+    "node_id": "MDQ6R2lzdGEzMTBiZmRmODZkNjA2ZWQzNGZmMjcyYTFmMzRhMzRl",
+    "files": {
+      "tag replace.py": {
+        "filename": "tag replace.py",
+        "type": "application/x-python",
+        "language": "Python",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/a310bfdf86d606ed34ff272a1f34a34e/raw/2d21e1139966ca54b7b7728c43b94702339c1111/tag%20replace.py",
+        "size": 388
+      }
+    },
+    "public": true,
+    "created_at": "2019-07-20T20:52:55Z",
+    "updated_at": "2021-07-18T23:11:29Z",
+    "description": "python regex replace link",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/b0a5a02928abd071faec5160243c195e",
+    "id": "b0a5a02928abd071faec5160243c195e",
+    "node_id": "MDQ6R2lzdGIwYTVhMDI5MjhhYmQwNzFmYWVjNTE2MDI0M2MxOTVl",
+    "files": {
+      "tag attribute.py": {
+        "filename": "tag attribute.py",
+        "type": "application/x-python",
+        "language": "Python",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/b0a5a02928abd071faec5160243c195e/raw/236d55daf3a742eba4d203f22e5e836bc4f55e4c/tag%20attribute.py",
+        "size": 219
+      }
+    },
+    "public": true,
+    "created_at": "2019-07-20T20:52:50Z",
+    "updated_at": "2021-07-18T23:11:32Z",
+    "description": "python regex html tag attribute",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/61fdf6c1be7772bf5ab86ebabe8f00cb",
+    "id": "61fdf6c1be7772bf5ab86ebabe8f00cb",
+    "node_id": "MDQ6R2lzdDYxZmRmNmMxYmU3NzcyYmY1YWI4NmViYWJlOGYwMGNi",
+    "files": {
+      "pg_isready.sh": {
+        "filename": "pg_isready.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/61fdf6c1be7772bf5ab86ebabe8f00cb/raw/48e7b0d66a18d8a3b2493dae5a74683a5aeb0cbb/pg_isready.sh",
+        "size": 241
+      }
+    },
+    "public": true,
+    "created_at": "2019-07-19T19:45:41Z",
+    "updated_at": "2021-07-18T23:11:35Z",
+    "description": "postgres pg_isready",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/270c1953a62f62eeb2fb0414f9723321",
+    "id": "270c1953a62f62eeb2fb0414f9723321",
+    "node_id": "MDQ6R2lzdDI3MGMxOTUzYTYyZjYyZWViMmZiMDQxNGY5NzIzMzIx",
+    "files": {
+      "networksetup.sh": {
+        "filename": "networksetup.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/270c1953a62f62eeb2fb0414f9723321/raw/475dd46be76d171eb3478a91a592dc9bed4812a7/networksetup.sh",
+        "size": 327
+      }
+    },
+    "public": true,
+    "created_at": "2019-07-19T19:45:36Z",
+    "updated_at": "2021-10-14T10:56:08Z",
+    "description": "macOS Wi-Fi #macos",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/29a1787dcc6705cc5ab1edc221b5d008",
+    "id": "29a1787dcc6705cc5ab1edc221b5d008",
+    "node_id": "MDQ6R2lzdDI5YTE3ODdkY2M2NzA1Y2M1YWIxZWRjMjIxYjVkMDA4",
+    "files": {
+      "click.applescript": {
+        "filename": "click.applescript",
+        "type": "text/plain",
+        "language": "AppleScript",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/29a1787dcc6705cc5ab1edc221b5d008/raw/2b571664209d9a03e14756facbd35577f0963f7c/click.applescript",
+        "size": 597
+      },
+      "index.html": {
+        "filename": "index.html",
+        "type": "text/html",
+        "language": "HTML",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/29a1787dcc6705cc5ab1edc221b5d008/raw/6f66a3a5c0ca9d7d03ef8b0e6a4e805217923b20/index.html",
+        "size": 1524
+      },
+      "test.sh": {
+        "filename": "test.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/29a1787dcc6705cc5ab1edc221b5d008/raw/639a5dfbf013faf034fbd9b900b5260ea2d56ec8/test.sh",
+        "size": 114
+      }
+    },
+    "public": true,
+    "created_at": "2019-07-19T19:45:30Z",
+    "updated_at": "2021-07-18T23:11:42Z",
+    "description": "javascript fullscreen",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/7f82619386d34736ec90718b2e67a02c",
+    "id": "7f82619386d34736ec90718b2e67a02c",
+    "node_id": "MDQ6R2lzdDdmODI2MTkzODZkMzQ3MzZlYzkwNzE4YjJlNjdhMDJj",
+    "files": {
+      "test.js": {
+        "filename": "test.js",
+        "type": "application/javascript",
+        "language": "JavaScript",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/7f82619386d34736ec90718b2e67a02c/raw/62e33ec2ccab6414eb966af459259a1caf937b30/test.js",
+        "size": 269
+      }
+    },
+    "public": true,
+    "created_at": "2019-07-19T19:45:00Z",
+    "updated_at": "2021-07-19T07:41:39Z",
+    "description": "javascript font size",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/265a85e4ac5a9bd12bdf1cf129d91c85",
+    "id": "265a85e4ac5a9bd12bdf1cf129d91c85",
+    "node_id": "MDQ6R2lzdDI2NWE4NWU0YWM1YTliZDEyYmRmMWNmMTI5ZDkxYzg1",
+    "files": {
+      "hash.py": {
+        "filename": "hash.py",
+        "type": "application/x-python",
+        "language": "Python",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/265a85e4ac5a9bd12bdf1cf129d91c85/raw/30d2b59fa1ba22068366e2020208c6220e91f7a2/hash.py",
+        "size": 100
+      }
+    },
+    "public": true,
+    "created_at": "2019-07-19T19:44:56Z",
+    "updated_at": "2021-07-19T07:41:43Z",
+    "description": "Django password hash",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/d39b0793da1e0314b37bff616fa64383",
+    "id": "d39b0793da1e0314b37bff616fa64383",
+    "node_id": "MDQ6R2lzdGQzOWIwNzkzZGExZTAzMTRiMzdiZmY2MTZmYTY0Mzgz",
+    "files": {
+      "prod.py": {
+        "filename": "prod.py",
+        "type": "application/x-python",
+        "language": "Python",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/d39b0793da1e0314b37bff616fa64383/raw/42f873f16297979fd22aae53d3eed2908d66f4d3/prod.py",
+        "size": 1504
+      }
+    },
+    "public": true,
+    "created_at": "2019-07-19T19:44:51Z",
+    "updated_at": "2021-10-12T20:33:58Z",
+    "description": "Django settings AWS logging CloudWatch #django #aws",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/ae1d7a9cc6f5477d784d85ae97bf53ca",
+    "id": "ae1d7a9cc6f5477d784d85ae97bf53ca",
+    "node_id": "MDQ6R2lzdGFlMWQ3YTljYzZmNTQ3N2Q3ODRkODVhZTk3YmY1M2Nh",
+    "files": {
+      "settings.py": {
+        "filename": "settings.py",
+        "type": "application/x-python",
+        "language": "Python",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/ae1d7a9cc6f5477d784d85ae97bf53ca/raw/247c0cf450fe1731ac3ca57f774408ad3a76f26a/settings.py",
+        "size": 135
+      }
+    },
+    "public": true,
+    "created_at": "2019-07-19T19:44:47Z",
+    "updated_at": "2021-10-12T20:34:15Z",
+    "description": "Django settings AWS EC2 ALLOWED_HOSTS #django #aws",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/7de51d50381c2abf83c9e3f7e2bb0596",
+    "id": "7de51d50381c2abf83c9e3f7e2bb0596",
+    "node_id": "MDQ6R2lzdDdkZTUxZDUwMzgxYzJhYmY4M2M5ZTNmN2UyYmIwNTk2",
+    "files": {
+      "Makefile": {
+        "filename": "Makefile",
+        "type": "text/plain",
+        "language": "Makefile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/7de51d50381c2abf83c9e3f7e2bb0596/raw/529285da8d0611ef837894c63ee7fde67dd12f5b/Makefile",
+        "size": 81
+      }
+    },
+    "public": true,
+    "created_at": "2019-07-19T19:44:42Z",
+    "updated_at": "2021-07-19T07:41:56Z",
+    "description": "Makefile environment variables",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/4407d07ea91b146dc9179dcabfc045ee",
+    "id": "4407d07ea91b146dc9179dcabfc045ee",
+    "node_id": "MDQ6R2lzdDQ0MDdkMDdlYTkxYjE0NmRjOTE3OWRjYWJmYzA0NWVl",
+    "files": {
+      "Makefile": {
+        "filename": "Makefile",
+        "type": "text/plain",
+        "language": "Makefile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/4407d07ea91b146dc9179dcabfc045ee/raw/925bb26415e6a31c0bedcc830bd363284331e0cb/Makefile",
+        "size": 38
+      }
+    },
+    "public": true,
+    "created_at": "2019-07-19T19:44:37Z",
+    "updated_at": "2021-07-19T07:43:18Z",
+    "description": "Makefile env file",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/e330489e143050cd9262dc8a03c3e0a4",
+    "id": "e330489e143050cd9262dc8a03c3e0a4",
+    "node_id": "MDQ6R2lzdGUzMzA0ODllMTQzMDUwY2Q5MjYyZGM4YTAzYzNlMGE0",
+    "files": {
+      "gists push.sh": {
+        "filename": "gists push.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/e330489e143050cd9262dc8a03c3e0a4/raw/3db307eac6b01c2e567fe1152393ef62e5a4ed52/gists%20push.sh",
+        "size": 631
+      }
+    },
+    "public": true,
+    "created_at": "2019-07-19T19:37:53Z",
+    "updated_at": "2021-07-19T07:43:22Z",
+    "description": "gists push updates",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/25cd417fdde68a84eb0a7efa716f6415",
+    "id": "25cd417fdde68a84eb0a7efa716f6415",
+    "node_id": "MDQ6R2lzdDI1Y2Q0MTdmZGRlNjhhODRlYjBhN2VmYTcxNmY2NDE1",
+    "files": {
+      "gists create.sh": {
+        "filename": "gists create.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/25cd417fdde68a84eb0a7efa716f6415/raw/0ff17ae9a800c0f6510d4475de67652443b77655/gists%20create.sh",
+        "size": 434
+      }
+    },
+    "public": true,
+    "created_at": "2019-07-19T18:45:38Z",
+    "updated_at": "2021-07-19T07:43:26Z",
+    "description": "gists create",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/bec15b5933311608b161f0ce0883d5cc",
+    "id": "bec15b5933311608b161f0ce0883d5cc",
+    "node_id": "MDQ6R2lzdGJlYzE1YjU5MzMzMTE2MDhiMTYxZjBjZTA4ODNkNWNj",
+    "files": {
+      "description.sh": {
+        "filename": "description.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/bec15b5933311608b161f0ce0883d5cc/raw/958e26dad5a7254440be45243813d1d6e78bd7ec/description.sh",
+        "size": 800
+      }
+    },
+    "public": true,
+    "created_at": "2019-07-19T18:16:55Z",
+    "updated_at": "2021-07-19T07:43:30Z",
+    "description": "gists description update",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/464b038c8656386ece838182f8256f76",
+    "id": "464b038c8656386ece838182f8256f76",
+    "node_id": "MDQ6R2lzdDQ2NGIwMzhjODY1NjM4NmVjZTgzODE4MmY4MjU2Zjc2",
+    "files": {
+      "delete.sh": {
+        "filename": "delete.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/464b038c8656386ece838182f8256f76/raw/147606852ee6b8af44112353d8467d8d31aa39ef/delete.sh",
+        "size": 450
+      }
+    },
+    "public": true,
+    "created_at": "2019-07-19T17:38:04Z",
+    "updated_at": "2021-07-19T07:43:34Z",
+    "description": "gists delete orphaned",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/1ab9807998e82dfbb7d774f98cf6df9c",
+    "id": "1ab9807998e82dfbb7d774f98cf6df9c",
+    "node_id": "MDQ6R2lzdDFhYjk4MDc5OThlODJkZmJiN2Q3NzRmOThjZjZkZjlj",
+    "files": {
+      "lsappinfo.sh": {
+        "filename": "lsappinfo.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/1ab9807998e82dfbb7d774f98cf6df9c/raw/7fd8ccc48eb2781cfeb38294f849de4ec6177d2e/lsappinfo.sh",
+        "size": 332
+      },
+      "osascript.sh": {
+        "filename": "osascript.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/1ab9807998e82dfbb7d774f98cf6df9c/raw/5af263ee914e3418aaa1b1b1fa1feeb40de19e33/osascript.sh",
+        "size": 159
+      }
+    },
+    "public": true,
+    "created_at": "2019-06-07T18:34:07Z",
+    "updated_at": "2022-04-23T18:58:10Z",
+    "description": "macOS app frontmost",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/272f880adc4deb5e30e2b78204e53e5f",
+    "id": "272f880adc4deb5e30e2b78204e53e5f",
+    "node_id": "MDQ6R2lzdDI3MmY4ODBhZGM0ZGViNWUzMGUyYjc4MjA0ZTUzZTVm",
+    "files": {
+      "PlistBuddy.sh": {
+        "filename": "PlistBuddy.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/272f880adc4deb5e30e2b78204e53e5f/raw/11803f5f4a67ccb56dbafaed79db23195c6ca1d5/PlistBuddy.sh",
+        "size": 806
+      },
+      "launchctl.sh": {
+        "filename": "launchctl.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/272f880adc4deb5e30e2b78204e53e5f/raw/56a4fb1358777d6883bd4377abd34eb40e940b04/launchctl.sh",
+        "size": 134
+      }
+    },
+    "public": true,
+    "created_at": "2019-06-07T18:16:31Z",
+    "updated_at": "2021-07-19T07:43:44Z",
+    "description": "macOS launchd scripts",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/8e4b04e28d3855dce29ad7e048ff0586",
+    "id": "8e4b04e28d3855dce29ad7e048ff0586",
+    "node_id": "MDQ6R2lzdDhlNGIwNGUyOGQzODU1ZGNlMjlhZDdlMDQ4ZmYwNTg2",
+    "files": {
+      "awk.sh": {
+        "filename": "awk.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/8e4b04e28d3855dce29ad7e048ff0586/raw/902a5f36561975f5040a304e86aac6a5afa89fe6/awk.sh",
+        "size": 142
+      },
+      "file1.txt": {
+        "filename": "file1.txt",
+        "type": "text/plain",
+        "language": "Text",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/8e4b04e28d3855dce29ad7e048ff0586/raw/9e6ce922e0ea5c213fde366ea9bccb220a7ac32d/file1.txt",
+        "size": 16
+      },
+      "file2.txt": {
+        "filename": "file2.txt",
+        "type": "text/plain",
+        "language": "Text",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/8e4b04e28d3855dce29ad7e048ff0586/raw/4ab07d6bc8f870e148bef09865d64f25381d664b/file2.txt",
+        "size": 16
+      }
+    },
+    "public": true,
+    "created_at": "2019-06-07T17:01:53Z",
+    "updated_at": "2019-07-20T15:08:52Z",
+    "description": "substract lines",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/3f0f9b936035d6094718db092bcf296b",
+    "id": "3f0f9b936035d6094718db092bcf296b",
+    "node_id": "MDQ6R2lzdDNmMGY5YjkzNjAzNWQ2MDk0NzE4ZGIwOTJiY2YyOTZi",
+    "files": {
+      "test.py": {
+        "filename": "test.py",
+        "type": "application/x-python",
+        "language": "Python",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/3f0f9b936035d6094718db092bcf296b/raw/5a495cbcc8db8172e5b87f8578a9b876bb145378/test.py",
+        "size": 582
+      }
+    },
+    "public": true,
+    "created_at": "2019-06-07T17:01:47Z",
+    "updated_at": "2021-07-19T07:43:48Z",
+    "description": "macOS speach commands parse",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/da2493a262eaa4de6623e09d654924f5",
+    "id": "da2493a262eaa4de6623e09d654924f5",
+    "node_id": "MDQ6R2lzdGRhMjQ5M2EyNjJlYWE0ZGU2NjIzZTA5ZDY1NDkyNGY1",
+    "files": {
+      "defaults.sh": {
+        "filename": "defaults.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/da2493a262eaa4de6623e09d654924f5/raw/7ebd780fffafe4a561a6d17a3c05bdb1cb5b190e/defaults.sh",
+        "size": 249
+      },
+      "launchd.sh": {
+        "filename": "launchd.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/da2493a262eaa4de6623e09d654924f5/raw/d2fc8af0316a70f3d7327ef7077f7ec76c679286/launchd.sh",
+        "size": 6477
+      },
+      "macOS security.sh": {
+        "filename": "macOS security.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/da2493a262eaa4de6623e09d654924f5/raw/f5528e1f348ba93589e315ed0a1ab3c8e2ae374c/macOS%20security.sh",
+        "size": 62
+      }
+    },
+    "public": true,
+    "created_at": "2019-06-07T17:01:41Z",
+    "updated_at": "2023-02-24T17:58:40Z",
+    "description": "macOS security",
+    "comments": 1,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/ecaa52401023c641efa7d9866ef2b737",
+    "id": "ecaa52401023c641efa7d9866ef2b737",
+    "node_id": "MDQ6R2lzdGVjYWE1MjQwMTAyM2M2NDFlZmE3ZDk4NjZlZjJiNzM3",
+    "files": {
+      "test.sh": {
+        "filename": "test.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/ecaa52401023c641efa7d9866ef2b737/raw/6d7592842ca7037faac0a0e79ac4944077fae25b/test.sh",
+        "size": 345
+      }
+    },
+    "public": true,
+    "created_at": "2019-06-07T17:01:35Z",
+    "updated_at": "2021-07-19T07:44:00Z",
+    "description": "macOS remotecontrol disable",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/85ebeb63319ba2bdd8464104659a86b6",
+    "id": "85ebeb63319ba2bdd8464104659a86b6",
+    "node_id": "MDQ6R2lzdDg1ZWJlYjYzMzE5YmEyYmRkODQ2NDEwNDY1OWE4NmI2",
+    "files": {
+      "cleanup.command": {
+        "filename": "cleanup.command",
+        "type": "text/plain",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/85ebeb63319ba2bdd8464104659a86b6/raw/9752ded14b7bbf04ebd37fc09f613f8eedd4cc56/cleanup.command",
+        "size": 1287
+      }
+    },
+    "public": true,
+    "created_at": "2019-06-07T17:01:31Z",
+    "updated_at": "2021-07-19T07:44:05Z",
+    "description": "macOS cleanup",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/aee8ccfb7f954585d4504e5734222437",
+    "id": "aee8ccfb7f954585d4504e5734222437",
+    "node_id": "MDQ6R2lzdGFlZThjY2ZiN2Y5NTQ1ODVkNDUwNGU1NzM0MjIyNDM3",
+    "files": {
+      "Finder fix.command": {
+        "filename": "Finder fix.command",
+        "type": "text/plain",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/aee8ccfb7f954585d4504e5734222437/raw/943861a1d166d0f366a22f99bcf1464d64bda9f0/Finder%20fix.command",
+        "size": 157
+      }
+    },
+    "public": true,
+    "created_at": "2019-06-07T17:01:25Z",
+    "updated_at": "2022-09-21T03:13:43Z",
+    "description": "macOS Finder fix",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/5e6ee494c32c8a0c5b80497cdb7da035",
+    "id": "5e6ee494c32c8a0c5b80497cdb7da035",
+    "node_id": "MDQ6R2lzdDVlNmVlNDk0YzMyYzhhMGM1YjgwNDk3Y2RiN2RhMDM1",
+    "files": {
+      "speedup.sh": {
+        "filename": "speedup.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/5e6ee494c32c8a0c5b80497cdb7da035/raw/49ef5a5f700002e93b312e856522fd6614ab7363/speedup.sh",
+        "size": 51
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-29T08:59:27Z",
+    "updated_at": "2021-07-19T07:44:13Z",
+    "description": "macOS speedup",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/c7a44a58e2cae6cf6ea1f5f2174d5b9d",
+    "id": "c7a44a58e2cae6cf6ea1f5f2174d5b9d",
+    "node_id": "MDQ6R2lzdGM3YTQ0YTU4ZTJjYWU2Y2Y2ZWExZjVmMjE3NGQ1Yjlk",
+    "files": {
+      "remove fonts.sh": {
+        "filename": "remove fonts.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/c7a44a58e2cae6cf6ea1f5f2174d5b9d/raw/462b53a3e963c2f457f41ae32f30ea0290c6e1d3/remove%20fonts.sh",
+        "size": 2103
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-27T16:03:57Z",
+    "updated_at": "2021-07-19T07:44:40Z",
+    "description": "macOS remove unused fonts",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/33b497dff0657903071f1398115e46ed",
+    "id": "33b497dff0657903071f1398115e46ed",
+    "node_id": "MDQ6R2lzdDMzYjQ5N2RmZjA2NTc5MDMwNzFmMTM5ODExNWU0NmVk",
+    "files": {
+      "macOS SIP.sh": {
+        "filename": "macOS SIP.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/33b497dff0657903071f1398115e46ed/raw/274f998b0876be6949039cf7bd3fcfc58619bdf5/macOS%20SIP.sh",
+        "size": 320
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-27T16:03:51Z",
+    "updated_at": "2021-07-19T07:44:43Z",
+    "description": "macOS SIP (System Integrity Protection)",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/d0615ffa6ece9f6bdc93e5023b5b118e",
+    "id": "d0615ffa6ece9f6bdc93e5023b5b118e",
+    "node_id": "MDQ6R2lzdGQwNjE1ZmZhNmVjZTlmNmJkYzkzZTUwMjNiNWIxMThl",
+    "files": {
+      "defaults.sh": {
+        "filename": "defaults.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/d0615ffa6ece9f6bdc93e5023b5b118e/raw/edbe46d7d4d18a1672fbab293c700a24ebd68de3/defaults.sh",
+        "size": 611
+      },
+      "test.sh": {
+        "filename": "test.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/d0615ffa6ece9f6bdc93e5023b5b118e/raw/87da903424926552ce19f25cad19d94b4c19ce8e/test.sh",
+        "size": 472
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-24T11:24:07Z",
+    "updated_at": "2021-07-19T07:44:47Z",
+    "description": "macOS languages",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/b0038a4e0a23533ab9dc2f1526fffab5",
+    "id": "b0038a4e0a23533ab9dc2f1526fffab5",
+    "node_id": "MDQ6R2lzdGIwMDM4YTRlMGEyMzUzM2FiOWRjMmYxNTI2ZmZmYWI1",
+    "files": {
+      "sysctl.sh": {
+        "filename": "sysctl.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/b0038a4e0a23533ab9dc2f1526fffab5/raw/7a69341d3d3f85e62d2268e15f119baccbc19a32/sysctl.sh",
+        "size": 293
+      },
+      "time-machine-speed-up.plist": {
+        "filename": "time-machine-speed-up.plist",
+        "type": "text/plain",
+        "language": "XML Property List",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/b0038a4e0a23533ab9dc2f1526fffab5/raw/844884b22c849f40a7fd38edad515359490fd1b0/time-machine-speed-up.plist",
+        "size": 627
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-24T11:23:59Z",
+    "updated_at": "2023-06-16T11:48:00Z",
+    "description": "macOS Time Machine speed up #macos #sysctl",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/0753d79c132ae6895e389667c1f44bc0",
+    "id": "0753d79c132ae6895e389667c1f44bc0",
+    "node_id": "MDQ6R2lzdDA3NTNkNzljMTMyYWU2ODk1ZTM4OTY2N2MxZjQ0YmMw",
+    "files": {
+      "Time Machine exclusions.command": {
+        "filename": "Time Machine exclusions.command",
+        "type": "text/plain",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/0753d79c132ae6895e389667c1f44bc0/raw/bdc3a38a7f8366028b758c255e0a726e9530804b/Time%20Machine%20exclusions.command",
+        "size": 3423
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-23T11:07:57Z",
+    "updated_at": "2023-06-29T15:03:19Z",
+    "description": "macOS Time Machine exclusions",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/84c613866820dfffd5ac34d09069cc57",
+    "id": "84c613866820dfffd5ac34d09069cc57",
+    "node_id": "MDQ6R2lzdDg0YzYxMzg2NjgyMGRmZmZkNWFjMzRkMDkwNjljYzU3",
+    "files": {
+      "Makefile": {
+        "filename": "Makefile",
+        "type": "text/plain",
+        "language": "Makefile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/84c613866820dfffd5ac34d09069cc57/raw/7158e758ea73305d1fcdee13eb0dd6e346facf9b/Makefile",
+        "size": 91
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-22T16:29:46Z",
+    "updated_at": "2021-07-19T07:45:00Z",
+    "description": "Makefile nested",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/e7b22b408eef381f2376a2067a99d068",
+    "id": "e7b22b408eef381f2376a2067a99d068",
+    "node_id": "MDQ6R2lzdGU3YjIyYjQwOGVlZjM4MWYyMzc2YTIwNjdhOTlkMDY4",
+    "files": {
+      "examples.sql": {
+        "filename": "examples.sql",
+        "type": "application/x-sql",
+        "language": "SQL",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/e7b22b408eef381f2376a2067a99d068/raw/9c3c33b0a7f65236f2287e305fec8ab3f1714f36/examples.sql",
+        "size": 1418
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-18T21:15:17Z",
+    "updated_at": "2021-07-19T07:45:03Z",
+    "description": "postgres afk tracker",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/0ba1bbabe270e44ff40ee5b60edf3063",
+    "id": "0ba1bbabe270e44ff40ee5b60edf3063",
+    "node_id": "MDQ6R2lzdDBiYTFiYmFiZTI3MGU0NGZmNDBlZTViNjBlZGYzMDYz",
+    "files": {
+      "mac shutdown.sh": {
+        "filename": "mac shutdown.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/0ba1bbabe270e44ff40ee5b60edf3063/raw/810b91e1f594b7acb5c07ce974fb5ebd01ba5b98/mac%20shutdown.sh",
+        "size": 839
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-18T21:14:54Z",
+    "updated_at": "2021-07-19T07:45:07Z",
+    "description": "macOS shutdown",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/cc8ea89a905e72a1ea865db630a91497",
+    "id": "cc8ea89a905e72a1ea865db630a91497",
+    "node_id": "MDQ6R2lzdGNjOGVhODlhOTA1ZTcyYTFlYTg2NWRiNjMwYTkxNDk3",
+    "files": {
+      "finder-alias": {
+        "filename": "finder-alias",
+        "type": "text/plain",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/cc8ea89a905e72a1ea865db630a91497/raw/1f9bab3f775d4352210506f44de0e8c6b5bf55de/finder-alias",
+        "size": 794
+      },
+      "finder-alias.applescript": {
+        "filename": "finder-alias.applescript",
+        "type": "text/plain",
+        "language": "AppleScript",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/cc8ea89a905e72a1ea865db630a91497/raw/6e760e378ee9ba3d551ac50fc34152a6d65ccd44/finder-alias.applescript",
+        "size": 543
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-18T21:14:47Z",
+    "updated_at": "2021-07-19T07:45:11Z",
+    "description": "macOS Finder alias",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/9f9134f6ae38bf515265865df904a9a9",
+    "id": "9f9134f6ae38bf515265865df904a9a9",
+    "node_id": "MDQ6R2lzdDlmOTEzNGY2YWUzOGJmNTE1MjY1ODY1ZGY5MDRhOWE5",
+    "files": {
+      "Dock add app.sh": {
+        "filename": "Dock add app.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/9f9134f6ae38bf515265865df904a9a9/raw/ae460ecc823af65549296c384a6a35d0bc35e765/Dock%20add%20app.sh",
+        "size": 299
+      },
+      "Dock add apps spacer.sh": {
+        "filename": "Dock add apps spacer.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/9f9134f6ae38bf515265865df904a9a9/raw/0d8031290b2fc0ea57477f29e64e8c7670e8caf0/Dock%20add%20apps%20spacer.sh",
+        "size": 338
+      },
+      "Dock add folder.sh": {
+        "filename": "Dock add folder.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/9f9134f6ae38bf515265865df904a9a9/raw/9494b36177f963a0d09b557025421155740fee94/Dock%20add%20folder.sh",
+        "size": 1014
+      },
+      "Dock list apps.sh": {
+        "filename": "Dock list apps.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/9f9134f6ae38bf515265865df904a9a9/raw/16cd718abd074783c6029fb01e274eba61d58c5e/Dock%20list%20apps.sh",
+        "size": 200
+      },
+      "Dock list folders.sh": {
+        "filename": "Dock list folders.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/9f9134f6ae38bf515265865df904a9a9/raw/167c01d09b21ec3822c8d4a411cb0ae5855cd00f/Dock%20list%20folders.sh",
+        "size": 202
+      },
+      "Dock rm app.sh": {
+        "filename": "Dock rm app.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/9f9134f6ae38bf515265865df904a9a9/raw/c33052cfb91eabf72559963fb5c4b02cc741b9df/Dock%20rm%20app.sh",
+        "size": 333
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-18T21:14:38Z",
+    "updated_at": "2023-08-29T13:19:15Z",
+    "description": "macOS Dock scripts",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/47d86814292afa9abd5969ec4e297f4a",
+    "id": "47d86814292afa9abd5969ec4e297f4a",
+    "node_id": "MDQ6R2lzdDQ3ZDg2ODE0MjkyYWZhOWFiZDU5NjllYzRlMjk3ZjRh",
+    "files": {
+      "gmail.py": {
+        "filename": "gmail.py",
+        "type": "application/x-python",
+        "language": "Python",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/47d86814292afa9abd5969ec4e297f4a/raw/846a47172eab2e99a059ef68bec935e67776a595/gmail.py",
+        "size": 972
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-10T11:47:57Z",
+    "updated_at": "2021-10-13T19:22:03Z",
+    "description": "#python #gmail",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/b85e871926a62c2d3a787b9c2d1a89f0",
+    "id": "b85e871926a62c2d3a787b9c2d1a89f0",
+    "node_id": "MDQ6R2lzdGI4NWU4NzE5MjZhNjJjMmQzYTc4N2I5YzJkMWE4OWYw",
+    "files": {
+      "perl.sh": {
+        "filename": "perl.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/b85e871926a62c2d3a787b9c2d1a89f0/raw/0b778a5e9b19987f535154d66f5a14572e079fdd/perl.sh",
+        "size": 165
+      },
+      "ps.sh": {
+        "filename": "ps.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/b85e871926a62c2d3a787b9c2d1a89f0/raw/fbb3852f8190f8ab9c99d1aaed83aa51a548cbba/ps.sh",
+        "size": 176
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-10T11:47:50Z",
+    "updated_at": "2019-07-20T15:08:43Z",
+    "description": "pid elapsed time",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/81b7220863a1523ad02864aa75e760f0",
+    "id": "81b7220863a1523ad02864aa75e760f0",
+    "node_id": "MDQ6R2lzdDgxYjcyMjA4NjNhMTUyM2FkMDI4NjRhYTc1ZTc2MGYw",
+    "files": {
+      "pip.sh": {
+        "filename": "pip.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/81b7220863a1523ad02864aa75e760f0/raw/95b5d34f02b3588c7badfb5c83ea8ffdb9a5716f/pip.sh",
+        "size": 129
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-08T09:14:42Z",
+    "updated_at": "2021-10-13T19:21:37Z",
+    "description": "python pip #python #pip",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/c8b8b38931a039db04d6ce901c0a5374",
+    "id": "c8b8b38931a039db04d6ce901c0a5374",
+    "node_id": "MDQ6R2lzdGM4YjhiMzg5MzFhMDM5ZGIwNGQ2Y2U5MDFjMGE1Mzc0",
+    "files": {
+      "perl timeout.sh": {
+        "filename": "perl timeout.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/c8b8b38931a039db04d6ce901c0a5374/raw/c1f2ece4c8f3bc10d89c693dd5a131034cf96fbf/perl%20timeout.sh",
+        "size": 93
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-06T07:25:48Z",
+    "updated_at": "2021-07-19T07:46:04Z",
+    "description": "timeout",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/3f69d18362fdcc07dfaf853a90a9e3f7",
+    "id": "3f69d18362fdcc07dfaf853a90a9e3f7",
+    "node_id": "MDQ6R2lzdDNmNjlkMTgzNjJmZGNjMDdkZmFmODUzYTkwYTllM2Y3",
+    "files": {
+      "sysctl kern.sysv": {
+        "filename": "sysctl kern.sysv",
+        "type": "text/plain",
+        "language": null,
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/3f69d18362fdcc07dfaf853a90a9e3f7/raw/f37ed7da574415884c9d6ca44f6e96a46632bcf0/sysctl%20kern.sysv",
+        "size": 172
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-06T07:25:42Z",
+    "updated_at": "2021-10-13T19:08:11Z",
+    "description": "sysctl kern.sysv #sysctl",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/b4ce7c690eee348fa626b555dba2ad3b",
+    "id": "b4ce7c690eee348fa626b555dba2ad3b",
+    "node_id": "MDQ6R2lzdGI0Y2U3YzY5MGVlZTM0OGZhNjI2YjU1NWRiYTJhZDNi",
+    "files": {
+      "sysctl -n kern.boottime.sh": {
+        "filename": "sysctl -n kern.boottime.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/b4ce7c690eee348fa626b555dba2ad3b/raw/eda1a0a22cb8e838e81e2dd17fd1b013a3b641bb/sysctl%20-n%20kern.boottime.sh",
+        "size": 262
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-06T07:25:33Z",
+    "updated_at": "2021-10-13T19:08:33Z",
+    "description": "sysctl boottime #sysctl",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/c82535773af9402e3a8a70e8d7426d45",
+    "id": "c82535773af9402e3a8a70e8d7426d45",
+    "node_id": "MDQ6R2lzdGM4MjUzNTc3M2FmOTQwMmUzYThhNzBlOGQ3NDI2ZDQ1",
+    "files": {
+      "DeRez.sh": {
+        "filename": "DeRez.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/c82535773af9402e3a8a70e8d7426d45/raw/ec9a34f8360c3dae8d9172cedfb9842c806d5369/DeRez.sh",
+        "size": 226
+      },
+      "GetFileInfo.sh": {
+        "filename": "GetFileInfo.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/c82535773af9402e3a8a70e8d7426d45/raw/b888408d48fcf1b8566250d7b0a10423f6af23e6/GetFileInfo.sh",
+        "size": 77
+      },
+      "xattr -d com.apple.FinderInfo.sh": {
+        "filename": "xattr -d com.apple.FinderInfo.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/c82535773af9402e3a8a70e8d7426d45/raw/4aec98b196bc6e88c59bc23b28da2811bf5a647a/xattr%20-d%20com.apple.FinderInfo.sh",
+        "size": 136
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-06T07:25:24Z",
+    "updated_at": "2021-07-19T07:46:19Z",
+    "description": "macOS Finder icon",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/93b192f57f64d13d1ed3c55f5c9c284d",
+    "id": "93b192f57f64d13d1ed3c55f5c9c284d",
+    "node_id": "MDQ6R2lzdDkzYjE5MmY1N2Y2NGQxM2QxZWQzYzU1ZjVjOWMyODRk",
+    "files": {
+      "github ssh test.sh": {
+        "filename": "github ssh test.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/93b192f57f64d13d1ed3c55f5c9c284d/raw/32ac19f0b862be92df1e495de30e68b2a3f56b78/github%20ssh%20test.sh",
+        "size": 60
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-06T07:25:15Z",
+    "updated_at": "2021-07-19T07:46:23Z",
+    "description": "github ssh test",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/57fcbde4cf7fedb409db2e27811a8d19",
+    "id": "57fcbde4cf7fedb409db2e27811a8d19",
+    "node_id": "MDQ6R2lzdDU3ZmNiZGU0Y2Y3ZmVkYjQwOWRiMmUyNzgxMWE4ZDE5",
+    "files": {
+      "fs_usage -f filesys.command": {
+        "filename": "fs_usage -f filesys.command",
+        "type": "text/plain",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/57fcbde4cf7fedb409db2e27811a8d19/raw/88477c186a68ce3e413cc79437ae771b3557b192/fs_usage%20-f%20filesys.command",
+        "size": 67
+      },
+      "test.sh": {
+        "filename": "test.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/57fcbde4cf7fedb409db2e27811a8d19/raw/c2ca7fa0372937c9e19c8195707ad3673eb361d4/test.sh",
+        "size": 206
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-06T07:25:10Z",
+    "updated_at": "2021-07-19T07:46:27Z",
+    "description": "macOS fs_usage",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/524e213fa406dd264cdc71b845e61934",
+    "id": "524e213fa406dd264cdc71b845e61934",
+    "node_id": "MDQ6R2lzdDUyNGUyMTNmYTQwNmRkMjY0Y2RjNzFiODQ1ZTYxOTM0",
+    "files": {
+      "headerless top.sh": {
+        "filename": "headerless top.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/524e213fa406dd264cdc71b845e61934/raw/e7f86abcf74b3185a63caa0c1e5ad6dce7bf51b4/headerless%20top.sh",
+        "size": 177
+      },
+      "macOS top.command": {
+        "filename": "macOS top.command",
+        "type": "text/plain",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/524e213fa406dd264cdc71b845e61934/raw/cde20f3b478211c86ba09bea7fb279fb8b904ac9/macOS%20top.command",
+        "size": 70
+      },
+      "top.sh": {
+        "filename": "top.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/524e213fa406dd264cdc71b845e61934/raw/d29f7e5c53a5e771916e08ca415d15c1e3a597d1/top.sh",
+        "size": 125
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-05T11:47:58Z",
+    "updated_at": "2019-08-14T08:08:32Z",
+    "description": "unix top examples",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/85ebbfcb21428224e80419b2af7d6b74",
+    "id": "85ebbfcb21428224e80419b2af7d6b74",
+    "node_id": "MDQ6R2lzdDg1ZWJiZmNiMjE0MjgyMjRlODA0MTliMmFmN2Q2Yjc0",
+    "files": {
+      "sound.sh": {
+        "filename": "sound.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/85ebbfcb21428224e80419b2af7d6b74/raw/1df28ba750010aa73aa78d580dbd59b847f75648/sound.sh",
+        "size": 95
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-05T11:47:50Z",
+    "updated_at": "2022-07-25T19:25:59Z",
+    "description": "macOS startup sound #macos",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/562cacc7ddd5bd126b55e80436c13efb",
+    "id": "562cacc7ddd5bd126b55e80436c13efb",
+    "node_id": "MDQ6R2lzdDU2MmNhY2M3ZGRkNWJkMTI2YjU1ZTgwNDM2YzEzZWZi",
+    "files": {
+      "ip.sh": {
+        "filename": "ip.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/562cacc7ddd5bd126b55e80436c13efb/raw/73f0bb32db543d3ceab8f2e41263d330ab623005/ip.sh",
+        "size": 111
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-05T11:47:43Z",
+    "updated_at": "2021-07-19T08:07:36Z",
+    "description": "ip internal and public",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/68c835072d05695ffe1a354b814d12fe",
+    "id": "68c835072d05695ffe1a354b814d12fe",
+    "node_id": "MDQ6R2lzdDY4YzgzNTA3MmQwNTY5NWZmZTFhMzU0YjgxNGQxMmZl",
+    "files": {
+      "ip geolocation.sh": {
+        "filename": "ip geolocation.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/68c835072d05695ffe1a354b814d12fe/raw/ee1d304347625d593b893cbfb3315d12ac846ef1/ip%20geolocation.sh",
+        "size": 251
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-05T11:47:34Z",
+    "updated_at": "2021-07-19T08:07:39Z",
+    "description": "ip geolocation",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/c9d7fb87ec5ebfa0740b2e2dbe4d25bb",
+    "id": "c9d7fb87ec5ebfa0740b2e2dbe4d25bb",
+    "node_id": "MDQ6R2lzdGM5ZDdmYjg3ZWM1ZWJmYTA3NDBiMmUyZGJlNGQyNWJi",
+    "files": {
+      "gists.command": {
+        "filename": "gists.command",
+        "type": "text/plain",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/c9d7fb87ec5ebfa0740b2e2dbe4d25bb/raw/33b2e86bedecf098fbef8f6640ec3b435e5bb797/gists.command",
+        "size": 651
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-04T15:44:21Z",
+    "updated_at": "2021-07-19T08:07:43Z",
+    "description": "gists management (create, delete orphaned, push updates, update description)",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/4291d7681d5d2dcfb622e835913dddad",
+    "id": "4291d7681d5d2dcfb622e835913dddad",
+    "node_id": "MDQ6R2lzdDQyOTFkNzY4MWQ1ZDJkY2ZiNjIyZTgzNTkxM2RkZGFk",
+    "files": {
+      "url escape.sh": {
+        "filename": "url escape.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/4291d7681d5d2dcfb622e835913dddad/raw/51f11a360660fb1143f58e864042fe172581c845/url%20escape.sh",
+        "size": 123
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-04T09:37:50Z",
+    "updated_at": "2021-07-19T08:10:04Z",
+    "description": "url escape",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/de4a252a0e7b0329b9f222f568972f9c",
+    "id": "de4a252a0e7b0329b9f222f568972f9c",
+    "node_id": "MDQ6R2lzdGRlNGEyNTJhMGU3YjAzMjliOWYyMjJmNTY4OTcyZjlj",
+    "files": {
+      "sqlite3.sh": {
+        "filename": "sqlite3.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/de4a252a0e7b0329b9f222f568972f9c/raw/845496ef54692f9d0f201a837b5dbb1e2077fc23/sqlite3.sh",
+        "size": 484
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-04T09:36:59Z",
+    "updated_at": "2019-07-20T15:08:50Z",
+    "description": "sqlite database locked",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/ecbb87a71c2875af7036a12731a9aa7a",
+    "id": "ecbb87a71c2875af7036a12731a9aa7a",
+    "node_id": "MDQ6R2lzdGVjYmI4N2E3MWMyODc1YWY3MDM2YTEyNzMxYTlhYTdh",
+    "files": {
+      "FUNCTION basename.sql": {
+        "filename": "FUNCTION basename.sql",
+        "type": "application/x-sql",
+        "language": "PLpgSQL",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/ecbb87a71c2875af7036a12731a9aa7a/raw/e18c77a0d8af73ce87099505a43138fef2734d72/FUNCTION%20basename.sql",
+        "size": 217
+      },
+      "TRIGGER.sql": {
+        "filename": "TRIGGER.sql",
+        "type": "application/x-sql",
+        "language": "PLpgSQL",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/ecbb87a71c2875af7036a12731a9aa7a/raw/9768a8bb0495ee7f17daf9df45e1f10b2f43cbb6/TRIGGER.sql",
+        "size": 635
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-04T09:36:55Z",
+    "updated_at": "2021-07-19T08:10:09Z",
+    "description": "postgres select basename",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/bca0bbca337f44461a040a90590925ab",
+    "id": "bca0bbca337f44461a040a90590925ab",
+    "node_id": "MDQ6R2lzdGJjYTBiYmNhMzM3ZjQ0NDYxYTA0MGE5MDU5MDkyNWFi",
+    "files": {
+      "_invalid.csv": {
+        "filename": "_invalid.csv",
+        "type": "text/csv",
+        "language": "CSV",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/bca0bbca337f44461a040a90590925ab/raw/cf02775e8d768053bded94f1c0eb4333578e5211/_invalid.csv",
+        "size": 9
+      },
+      "_valid.csv": {
+        "filename": "_valid.csv",
+        "type": "text/csv",
+        "language": "CSV",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/bca0bbca337f44461a040a90590925ab/raw/0b13c0fbc8d18525b2760f1fb8faa8ff1c13def9/_valid.csv",
+        "size": 14
+      },
+      "import.sql": {
+        "filename": "import.sql",
+        "type": "application/x-sql",
+        "language": "SQL",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/bca0bbca337f44461a040a90590925ab/raw/5d455122248210b1a8fce018886447e95cb07503/import.sql",
+        "size": 140
+      },
+      "psql.sh": {
+        "filename": "psql.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/bca0bbca337f44461a040a90590925ab/raw/21e1165499a1cf9ba8f83885315c92ccdb208584/psql.sh",
+        "size": 189
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-04T09:36:50Z",
+    "updated_at": "2021-07-19T08:10:12Z",
+    "description": "postgres cvs ERROR: unterminated CSV quoted field",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/ec999dabe9f1a6e4143c2ce77366bfcb",
+    "id": "ec999dabe9f1a6e4143c2ce77366bfcb",
+    "node_id": "MDQ6R2lzdGVjOTk5ZGFiZTlmMWE2ZTQxNDNjMmNlNzczNjZiZmNi",
+    "files": {
+      "data.csv": {
+        "filename": "data.csv",
+        "type": "text/csv",
+        "language": "CSV",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/ec999dabe9f1a6e4143c2ce77366bfcb/raw/716919efce5138066302e1bdc336d429bdb75acf/data.csv",
+        "size": 26
+      },
+      "import.sql": {
+        "filename": "import.sql",
+        "type": "application/x-sql",
+        "language": "SQL",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/ec999dabe9f1a6e4143c2ce77366bfcb/raw/c240639150693b8b55e5a47aaa09ef260e68e398/import.sql",
+        "size": 536
+      },
+      "psql.sh": {
+        "filename": "psql.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/ec999dabe9f1a6e4143c2ce77366bfcb/raw/5aa2508e98a4b0b8a43e23a3d285dff6e77e60dc/psql.sh",
+        "size": 132
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-04T09:36:45Z",
+    "updated_at": "2021-07-19T08:10:16Z",
+    "description": "postgres csv import",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/d1154ec6601933aebcdcf6d259b85831",
+    "id": "d1154ec6601933aebcdcf6d259b85831",
+    "node_id": "MDQ6R2lzdGQxMTU0ZWM2NjAxOTMzYWViY2RjZjZkMjU5Yjg1ODMx",
+    "files": {
+      "copy table.sql": {
+        "filename": "copy table.sql",
+        "type": "application/x-sql",
+        "language": "SQL",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/d1154ec6601933aebcdcf6d259b85831/raw/09e2ab8ef4a9277871bc624532d25f56c1ad19dc/copy%20table.sql",
+        "size": 297
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-04T09:36:40Z",
+    "updated_at": "2021-07-19T08:10:19Z",
+    "description": "postgres copy table",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/5589f30103a0408597a5a2830eb25b33",
+    "id": "5589f30103a0408597a5a2830eb25b33",
+    "node_id": "MDQ6R2lzdDU1ODlmMzAxMDNhMDQwODU5N2E1YTI4MzBlYjI1YjMz",
+    "files": {
+      "Makefile": {
+        "filename": "Makefile",
+        "type": "text/plain",
+        "language": "Makefile",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/5589f30103a0408597a5a2830eb25b33/raw/e5ff3aabb27e81366f85ce6246af72f57b4211e2/Makefile",
+        "size": 119
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-04T08:58:02Z",
+    "updated_at": "2019-07-20T15:08:40Z",
+    "description": "node-sass",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/e3ae47e2eddc2041a72cd5677ae03990",
+    "id": "e3ae47e2eddc2041a72cd5677ae03990",
+    "node_id": "MDQ6R2lzdGUzYWU0N2UyZWRkYzIwNDFhNzJjZDU2NzdhZTAzOTkw",
+    "files": {
+      "perl.sh": {
+        "filename": "perl.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/e3ae47e2eddc2041a72cd5677ae03990/raw/d4653a0c90377e0e60d6e29de464183d7019099b/perl.sh",
+        "size": 117
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-04T08:56:44Z",
+    "updated_at": "2021-07-19T08:10:26Z",
+    "description": "macOS default browser",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/1370fc80b9984abcc4cd378c3cf60649",
+    "id": "1370fc80b9984abcc4cd378c3cf60649",
+    "node_id": "MDQ6R2lzdDEzNzBmYzgwYjk5ODRhYmNjNGNkMzc4YzNjZjYwNjQ5",
+    "files": {
+      "register app.sh": {
+        "filename": "register app.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/1370fc80b9984abcc4cd378c3cf60649/raw/97e0af518b197ef5070d579b631eaa8746992030/register%20app.sh",
+        "size": 209
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-04T08:56:38Z",
+    "updated_at": "2022-01-25T07:28:37Z",
+    "description": "macOS lsregister app",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/18c3a8a460c3e4fb41e9b1a7a5b59bad",
+    "id": "18c3a8a460c3e4fb41e9b1a7a5b59bad",
+    "node_id": "MDQ6R2lzdDE4YzNhOGE0NjBjM2U0ZmI0MWU5YjFhN2E1YjU5YmFk",
+    "files": {
+      "Discord Developer Portal \u2014 Documentation \u2014 Webhook.webloc": {
+        "filename": "Discord Developer Portal \u2014 Documentation \u2014 Webhook.webloc",
+        "type": "text/plain",
+        "language": "XML",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/18c3a8a460c3e4fb41e9b1a7a5b59bad/raw/7d52180265ef9930b06b480f0de1ee6c6732c61c/Discord%20Developer%20Portal%20%E2%80%94%20Documentation%20%E2%80%94%20Webhook.webloc",
+        "size": 295
+      },
+      "post.py": {
+        "filename": "post.py",
+        "type": "application/x-python",
+        "language": "Python",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/18c3a8a460c3e4fb41e9b1a7a5b59bad/raw/e043fc3fe396b0e6fc5b0f5e9481617118fb3230/post.py",
+        "size": 936
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-04T08:54:38Z",
+    "updated_at": "2019-07-20T15:07:44Z",
+    "description": "discord webhook example",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/110d66d6075f1b8ec6503b8624d0f238",
+    "id": "110d66d6075f1b8ec6503b8624d0f238",
+    "node_id": "MDQ6R2lzdDExMGQ2NmQ2MDc1ZjFiOGVjNjUwM2I4NjI0ZDBmMjM4",
+    "files": {
+      "python remove emoji.py": {
+        "filename": "python remove emoji.py",
+        "type": "application/x-python",
+        "language": "Python",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/110d66d6075f1b8ec6503b8624d0f238/raw/42fcfcef00ec62c3ed016ef96a5d93df0c911b15/python%20remove%20emoji.py",
+        "size": 99
+      },
+      "sed remove emoji.sh": {
+        "filename": "sed remove emoji.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/110d66d6075f1b8ec6503b8624d0f238/raw/32ef57cb0b4efaaf4105139d7e5707928260f8ee/sed%20remove%20emoji.sh",
+        "size": 143
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-04T08:16:16Z",
+    "updated_at": "2023-09-21T05:28:16Z",
+    "description": "emoji remove",
+    "comments": 1,
+    "user": null,
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/572dd1dfa1dccf6b56ace91607c11a12",
+    "id": "572dd1dfa1dccf6b56ace91607c11a12",
+    "node_id": "MDQ6R2lzdDU3MmRkMWRmYTFkY2NmNmI1NmFjZTkxNjA3YzExYTEy",
+    "files": {
+      "settings.py": {
+        "filename": "settings.py",
+        "type": "application/x-python",
+        "language": "Python",
+        "raw_url": "https://gist.githubusercontent.com/andrewp-as-is/572dd1dfa1dccf6b56ace91607c11a12/raw/c85f0fde0a0feb56c69e8b6853f13aa932b4f6f6/settings.py",
+        "size": 245
+      }
+    },
+    "public": true,
+    "created_at": "2019-05-04T08:16:06Z",
+    "updated_at": "2021-07-19T08:10:43Z",
+    "description": "Django settings SSL HTTPS",
+    "comments": 0,
+    "user": null,
+    "truncated": false
+  }
+]
